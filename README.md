@@ -1,3 +1,5 @@
+PLEASE READ THE COMMENT IN THE PULL REQUEST.
+
 # Arduino Client for MQTT
 
 This library provides a client for doing simple publish/subscribe messaging with
